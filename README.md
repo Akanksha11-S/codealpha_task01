@@ -1,4 +1,4 @@
-# 🎭 Gallery Noir
+# 🎭 PhotoVault 
 
 A modern, cinematic-style image gallery built using **HTML, CSS, and JavaScript**.  
 Designed with a dark aesthetic, smooth animations, category filtering, and a full-screen lightbox experience.
